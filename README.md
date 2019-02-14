@@ -11,6 +11,8 @@ link: https://h2o-release.s3.amazonaws.com/h2o/rel-wright/7/docs-website/h2o-doc
 
 cd ~/Downloads/h2o-{version}
 
+cd C:\Program Files\h2o-3.20.0.7
+
 java -jar h2o.jar
 
 http://localhost:54321
